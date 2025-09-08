@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RananjayRaj
-- 👀 I’m interested in Data Science, Python, Digital Marketing, Travel, Dance, Movie
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science
+- 👀 I’m interested in AI Automatin, N8N, Autogen, AI Agents, Python, Digital Marketing, Travel, Dance & Movies
+- 🌱 I’m currently creating AI Agents for marketing automation
+- 💞️ I’m looking to collaborate on AI Agents
 - 📫 How to reach me: https://www.linkedin.com/in/rananjayraj/
 
 <!---
