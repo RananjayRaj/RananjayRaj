@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RananjayRaj
-- 👀 I’m interested in AI Automatin, N8N, Autogen, AI Agents, Python, Digital Marketing, Travel, Dance & Movies
-- 🌱 I’m currently creating AI Agents for marketing automation
-- 💞️ I’m looking to collaborate on AI Agents
+- 👀 I’m interested in AI based Automation using N8N, LLMs, Python & combining it with the concepts of Marketing. 
+- 🌱 I’m currently passionate about creating AI Agents for marketing automation.
+- 🕺 In my free time, I love to Travel, Dance & watch movies. 
 - 📫 How to reach me: https://www.linkedin.com/in/rananjayraj/
 
 <!---
